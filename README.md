@@ -12,13 +12,13 @@ A game engine that runs on your terminal implemented in Vulkan & C++
 
 ## Windows
 
-1. Run `git clone --recursive https://github.com/VergilSparda114514/TerminalEngine.git`
+1. Clone using `git clone --recursive https://github.com/VergilSparda114514/TerminalEngine.git`
 2. Run the `Setup.bat` script located in the `scripts` folder
 3. Open the `Terminal Engine.slnx` solution file in Visual Studio and hit `F5` to build and run the project
 
 ## Linux
 
-1. Run `git clone --recursive https://github.com/VergilSparda114514/TerminalEngine.git`
+1. Clone using `git clone --recursive https://github.com/VergilSparda114514/TerminalEngine.git`
 2. Run the `Setup.sh` script located in the `scripts` folder
 3. Run `make` in the root folder of the project to build the project
 
